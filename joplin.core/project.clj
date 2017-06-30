@@ -1,8 +1,8 @@
-(defproject joplin.core "0.3.11-SNAPSHOT"
+(defproject com.mirego/joplin.core "0.3.11-SNAPSHOT"
   :description "Flexible datastore migration and seeding"
-  :url "http://github.com/juxt/joplin"
+  :url "http://github.com/mirego/joplin"
   :scm {:name "git"
-        :url "https://github.com/juxt/joplin"}
+        :url "https://github.com/mirego/joplin"}
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :pedantic? :abort
