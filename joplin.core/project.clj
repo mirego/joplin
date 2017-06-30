@@ -1,4 +1,4 @@
-(defproject com.mirego/joplin.core "0.3.11-SNAPSHOT"
+(defproject com.mirego/joplin.core "0.3.11"
   :description "Flexible datastore migration and seeding"
   :url "http://github.com/mirego/joplin"
   :scm {:name "git"
